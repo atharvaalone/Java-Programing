@@ -1,3 +1,5 @@
+
+// code for finding max and min element in the array
 package com.collection;
 
 import java.util.ArrayList;
@@ -15,5 +17,6 @@ public class MaxMin  {
 
 
     }
+
 
 }
